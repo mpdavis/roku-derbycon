@@ -79,10 +79,12 @@ Function displayShowDetailScreen(category as Object, showIndex as Integer) As In
     if validateParam(category, "roAssociativeArray", "displayShowDetailScreen") = false return -1
 
     shows = getShowsForCategoryItem(category, m.curCategory)
-    screen = preShowDetailScreen(category.Title, category.kids[m.curCategory].Title)
-    showIndex = showDetailScreen(screen, shows, showIndex)
+    'screen = preShowDetailScreen(category.Title, category.kids[m.curCategory].Title)
+    'showIndex = showDetailScreen(screen, shows, showIndex)
 
-    return showIndex
+    'return showIndex
+
+    showVideoScreen(shows[showIndex])
 End Function
 
 
