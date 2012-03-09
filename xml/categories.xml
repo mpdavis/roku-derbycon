@@ -1,0 +1,41 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
+
+<category title="All Shows" description="Original" sd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/podnutz-logo-220.jpg" hd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/podnutz-logo-220.jpg">
+		<categoryLeaf title="Podnutz" description="" feed="http://www.podnutz.com/feeds/roku-allshows.xml"/>
+	</category>
+	  
+	<category title="Podnutz" description="Original XML" sd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/podnutz-logo-220.jpg" hd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/podnutz-logo-220.jpg">
+		<categoryLeaf title="Podnutz" description="" feed="http://www.podnutz.com/feeds/roku-podnutz.xml"/>
+	</category>
+	
+    <category title="Podnutz Daily" description="Podnutz Daily" sd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/pnd-logo-220.jpg" hd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/pnd-logo-220.jpg">
+		<categoryLeaf title="Podnutz" description="" feed="http://www.podnutz.com/feeds/roku-pnd.xml"/>
+	</category>
+	
+	<category title="Nutz at Night" description="Nutz at Night" sd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/nutzatnight-logo-220.jpg" hd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/nutzatnight-logo-220.jpg">
+		<categoryLeaf title="Podnutz" description="" feed="http://www.podnutz.com/feeds/roku-nan.xml"/>
+	</category>
+	
+	<category title="My Hard Drive Died" description="My Hard Drive Died" sd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/mhdd-logo-220.jpg" hd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/mhdd-logo-220.jpg">
+		<categoryLeaf title="Podnutz" description="" feed="http://www.podnutz.com/feeds/roku-mhdd.xml"/>
+	</category>
+	
+	<category title="Linux for the Rest of Us" description="Linux for the Rest of Us" sd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/lftrou-logo-220.jpg" hd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/lftrou-logo-220.jpg">
+		<categoryLeaf title="Podnutz" description="" feed="http://www.podnutz.com/feeds/roku-lftrou.xml"/>
+	</category>
+	
+	<category title="Android App Addicts" description="Android App Addicts" sd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/aaa-logo-220.jpg" hd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/aaa-logo-220.jpg">
+		<categoryLeaf title="Podnutz" description="" feed="http://www.podnutz.com/feeds/roku-aaa.xml"/>
+	</category>
+	
+	<category title="Podnutz Pro" description="Podnutz Pro" sd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/pro-logo-220.jpg" hd_img="http://www.public.iastate.edu/~mpdavis/podnutz/roku/images/pro-logo-220.jpg">
+		<categoryLeaf title="Podnutz" description="" feed="http://www.podnutz.com/feeds/roku-pro.xml"/>
+	</category>
+    
+
+ </categories>
