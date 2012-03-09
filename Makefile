@@ -16,8 +16,8 @@
 #    Set in your this variable in your shell startup (e.g. .bashrc)
 ##########################################################################  
 APPNAME = roku-derbycon
-VERSION = 2.0
+VERSION = 1.0
 
-ZIP_EXCLUDE= -x xml/* -x artwork/*
+ZIP_EXCLUDE= -x .git/*
 
 include ../app.mk
