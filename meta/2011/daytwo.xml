@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<feed>
+
+	<!-- resultLength indicates the total number of results for this feed -->
+		<resultLength>4</resultLength>
+
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+		<endIndex>4</endIndex>
+
+	
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t1-dennis-kuntz-mining-sensitive-information-from-images-using-command-line-ocr_001131.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t1-dennis-kuntz-mining-sensitive-information-from-images-using-command-line-ocr_001131.jpg">
+
+		<title>Dennis Kuntz – Mining Sensitive Information From Images Using Command-Line OCR</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t1-dennis-kuntz-mining-sensitive-information-from-images-using-command-line-ocr.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+
+
+
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t2-michael-arpaia-beat-to-1337-creating-a-successful-university-cyber-defense-organization_000799.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t2-michael-arpaia-beat-to-1337-creating-a-successful-university-cyber-defense-organization_000799.jpg">
+
+		<title>Michael Arpaia – Beat to 1337: Creating A Successful University Cyber Defense Organization</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t2-michael-arpaia-beat-to-1337-creating-a-successful-university-cyber-defense-organization.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t3-carlos-perez-darkoperator-tactical-post-exploitation_001336.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t3-carlos-perez-darkoperator-tactical-post-exploitation_001336.jpg">
+
+		<title>Carlos Perez (darkoperator) – Tactical Post Exploitation</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t3-carlos-perez-darkoperator-tactical-post-exploitation.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t4-paul-asadoorian-john-strand-offensive-countermeasures-still-trying-to-bring-sexy-back_001025.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t4-paul-asadoorian-john-strand-offensive-countermeasures-still-trying-to-bring-sexy-back_001025.jpg">
+
+		<title>Paul Asadoorian + John Strand: Offensive Countermeasures: Still trying to bring sexy back</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t4-paul-asadoorian-john-strand-offensive-countermeasures-still-trying-to-bring-sexy-back.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t5-tony-huffman-myne-us-when-fuzzers-miss-the-no-hanging-fruit_000877.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t5-tony-huffman-myne-us-when-fuzzers-miss-the-no-hanging-fruit_000877.jpg">
+
+		<title>Tony Huffman (Myne-us) – When Fuzzers Miss: The no Hanging Fruit.</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t5-tony-huffman-myne-us-when-fuzzers-miss-the-no-hanging-fruit.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t6-rafal-los-youre-going-to-need-a-bigger-shovel-a-critical-look-at-software-security-assurance_001199.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t6-rafal-los-youre-going-to-need-a-bigger-shovel-a-critical-look-at-software-security-assurance_001199.jpg">
+
+		<title>Rafal Los – You’re Going to Need a Bigger Shovel – A Critical Look at Software Security Assurance</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t6-rafal-los-youre-going-to-need-a-bigger-shovel-a-critical-look-at-software-security-assurance.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t7-rick-hayes-karthik-rangarajan-osint-beyond-the-basics_001111.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t7-rick-hayes-karthik-rangarajan-osint-beyond-the-basics_001111.jpg">
+
+		<title>Rick Hayes + Karthik Rangarajan – OSINT Beyond the Basics</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t7-rick-hayes-karthik-rangarajan-osint-beyond-the-basics.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t8-int0x80-of-dual-core-anti-forensics-for-the-louise_001101.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t8-int0x80-of-dual-core-anti-forensics-for-the-louise_001101.jpg">
+
+		<title>int0x80 (of Dual Core) – Anti-Forensics for the Louise</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t8-int0x80-of-dual-core-anti-forensics-for-the-louise.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t9-rick-redman-tomorrow-you-can-patch-that-0day-but-your-users-will-still-get-you-p0wn3d_001100.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t9-rick-redman-tomorrow-you-can-patch-that-0day-but-your-users-will-still-get-you-p0wn3d_001100.jpg">
+
+		<title>Rick Redman – Tomorrow you can patch that 0day – but your users will still get you p0wn3d</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t9-rick-redman-tomorrow-you-can-patch-that-0day-but-your-users-will-still-get-you-p0wn3d.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t11-tottenkoph-data-mining-for-neuro-hackers_001133.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t1t11-tottenkoph-data-mining-for-neuro-hackers_001133.jpg">
+
+		<title>Tottenkoph – Data Mining for (Neuro) hackers</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t1t11-tottenkoph-data-mining-for-neuro-hackers.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+   
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t1-brian-baskin-walking-the-green-mile-how-to-get-fired-after-a-security-incident_001185.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t1-brian-baskin-walking-the-green-mile-how-to-get-fired-after-a-security-incident_001185.jpg">
+
+		<title>Brian Baskin – Walking the Green Mile: How to Get Fired After a Security Incident</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t1-brian-baskin-walking-the-green-mile-how-to-get-fired-after-a-security-incident.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t2-joe-schorr-rule-1-cardio-and-9-other-rules-to-keep-intruders-out_001199.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t2-joe-schorr-rule-1-cardio-and-9-other-rules-to-keep-intruders-out_001199.jpg">
+
+		<title>Joe Schorr – “Rule 1: Cardio” (and 9 other rules to keep intruders out)</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t2-joe-schorr-rule-1-cardio-and-9-other-rules-to-keep-intruders-out.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t3-thomas-hoffecker-exploiting-pki-for-fun-and-profit-or-the-next-yellow-padlock-icon_001023.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t3-thomas-hoffecker-exploiting-pki-for-fun-and-profit-or-the-next-yellow-padlock-icon_001023.jpg">
+
+		<title>Thomas Hoffecker – Exploiting PKI for Fun and Profit or The Next Yellow Padlock Icon?</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t3-thomas-hoffecker-exploiting-pki-for-fun-and-profit-or-the-next-yellow-padlock-icon.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t4-matthew-becker-73o7ki-survival-hacking-your-way-out-of-armageddon_000778.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t4-matthew-becker-73o7ki-survival-hacking-your-way-out-of-armageddon_000778.jpg">
+
+		<title>Matthew Becker – 73o7\/\/@\/\/Ki – Survival Hacking your way out of Armageddon</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t4-matthew-becker-73o7ki-survival-hacking-your-way-out-of-armageddon.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t5-bart-hopper-avoiding-the-landmines-in-your-own-backyard_000786.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t5-bart-hopper-avoiding-the-landmines-in-your-own-backyard_000786.jpg">
+
+		<title>Bart Hopper – Avoiding the Landmines in your own Backyard</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t5-bart-hopper-avoiding-the-landmines-in-your-own-backyard.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t6-chris-gates-and-rob-fuller-the-dirty-little-secrets-they-didnt-teach-you-in-pentesting-class_001330.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t6-chris-gates-and-rob-fuller-the-dirty-little-secrets-they-didnt-teach-you-in-pentesting-class_001330.jpg">
+
+		<title>Chris Gates and Rob Fuller – The Dirty Little Secrets They Didn’t Teach You In Pentesting Class</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t6-chris-gates-and-rob-fuller-the-dirty-little-secrets-they-didnt-teach-you-in-pentesting-class.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t7-boris-sverdlik-your-perimeter-sucks_000989.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t7-boris-sverdlik-your-perimeter-sucks_000989.jpg">
+
+		<title>Boris Sverdlik – Your perimeter sucks</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t7-boris-sverdlik-your-perimeter-sucks.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t8-evan-booth-hide-yo-kids-hide-yo-wife-residential-security-and-monitoring-the-bottom-line_000941.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t8-evan-booth-hide-yo-kids-hide-yo-wife-residential-security-and-monitoring-the-bottom-line_000941.jpg">
+
+		<title>Evan Booth – Hide yo kids, hide yo wife: Residential security  and monitoring the bottom line</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t8-evan-booth-hide-yo-kids-hide-yo-wife-residential-security-and-monitoring-the-bottom-line.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t9-rick-farina-free-floating-hostility_001039.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t9-rick-farina-free-floating-hostility_001039.jpg">
+
+		<title>Rick Farina – Free Floating Hostility</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t9-rick-farina-free-floating-hostility.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t10-jack-daniel-surviving-a-teleporter-accident-it-could-happen-to-you_000605.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t10-jack-daniel-surviving-a-teleporter-accident-it-could-happen-to-you_000605.jpg">
+
+		<title>Jack Daniel – Surviving a Teleporter Accident (It could happen to you)</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t10-jack-daniel-surviving-a-teleporter-accident-it-could-happen-to-you.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t11-adrian-crenshaw-building-a-svartkast-cheap-hardware-to-leave-behind-on-someone-elses-network_001212.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t2t11-adrian-crenshaw-building-a-svartkast-cheap-hardware-to-leave-behind-on-someone-elses-network_001212.jpg">
+
+		<title>Adrian Crenshaw – Building a Svartkast: Cheap hardware to leave behind on someone else’s network</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t2t11-adrian-crenshaw-building-a-svartkast-cheap-hardware-to-leave-behind-on-someone-elses-network.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t1-georgia-weidman-throw-it-in-the-river-towards-real-live-actual-smartphone-security_001083.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t1-georgia-weidman-throw-it-in-the-river-towards-real-live-actual-smartphone-security_001083.jpg">
+
+		<title>Georgia Weidman – Throw It in the River? Towards Real Live Actual Smartphone Security</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t1-georgia-weidman-throw-it-in-the-river-towards-real-live-actual-smartphone-security.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t2-rob-simon-pentesting-over-powerlines_001015.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t2-rob-simon-pentesting-over-powerlines_001015.jpg">
+
+		<title>Rob Simon – Pentesting over Powerlines</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t2-rob-simon-pentesting-over-powerlines.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t3-larry-pesce-you-are-the-smart-meter-making-and-hacking-of-the-2011-ma-ccdc-electronic-badges-_001125.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t3-larry-pesce-you-are-the-smart-meter-making-and-hacking-of-the-2011-ma-ccdc-electronic-badges-_001125.jpg">
+
+		<title>Larry Pesce – You are the Smart Meter: Making (and hacking) of the 2011 MA-CCDC electronic badges</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t3-larry-pesce-you-are-the-smart-meter-making-and-hacking-of-the-2011-ma-ccdc-electronic-badges-.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t4-bill-sempf-is-locksport-a-sport_001005.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t4-bill-sempf-is-locksport-a-sport_001005.jpg">
+
+		<title>Bill Sempf – Is locksport a sport?</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t4-bill-sempf-is-locksport-a-sport.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t5-infojanitor-virtual-trust-virtual-permission-and-the-illusion-of-security_001192.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t5-infojanitor-virtual-trust-virtual-permission-and-the-illusion-of-security_001192.jpg">
+
+		<title>Infojanitor – Virtual trust, Virtual Permission and the Illusion of Security</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t5-infojanitor-virtual-trust-virtual-permission-and-the-illusion-of-security.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t6-ben-feinstein-and-jeff-jarmoc-get-off-of-my-cloud-cloud-credential-compromise-and-exposure_001356.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t6-ben-feinstein-and-jeff-jarmoc-get-off-of-my-cloud-cloud-credential-compromise-and-exposure_001356.jpg">
+
+		<title>Ben Feinstein, Jeff Jarmoc – Get Off of My Cloud": Cloud Credential Compromise and Exposure</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t6-ben-feinstein-and-jeff-jarmoc-get-off-of-my-cloud-cloud-credential-compromise-and-exposure.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t7-jimmy-shah-mobile-app-moolah-profit-taking-with-mobile-malware_000957.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t7-jimmy-shah-mobile-app-moolah-profit-taking-with-mobile-malware_000957.jpg">
+
+		<title>Jimmy Shah – Mobile App Moolah: Profit taking with Mobile Malware</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t7-jimmy-shah-mobile-app-moolah-profit-taking-with-mobile-malware.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t8-mccorkle-and-rios-100-bugs-in-100-days-an-analysis-of-ics-scada-software_000929.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t8-mccorkle-and-rios-100-bugs-in-100-days-an-analysis-of-ics-scada-software_000929.jpg">
+
+		<title>McCorkle, Rios – 100 bugs in 100 days: An analysis of ICS (SCADA) software</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t8-mccorkle-and-rios-100-bugs-in-100-days-an-analysis-of-ics-scada-software.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t11-brent-huston-realize-your-hacker-heritage-do-the-needful_000692.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d2t3t11-brent-huston-realize-your-hacker-heritage-do-the-needful_000692.jpg">
+
+		<title>Brent Huston – Realize Your Hacker Heritage: Do The Needful</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d2t3t11-brent-huston-realize-your-hacker-heritage-do-the-needful.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+   
+    
+    
+    
+
+</feed>

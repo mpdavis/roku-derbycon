@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+    <!-- banner_ad: optional element which displays an at the top level category screen -->
+    <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
+    
+    <category title="2012 Day One" description="" sd_img="http://dl.dropbox.com/u/7067038/derbycon/derbycon.png" hd_img="http://dl.dropbox.com/u/7067038/derbycon/derbycon.png">
+		<categoryLeaf title="Track 1" description="" feed="http://dl.dropbox.com/u/7067038/derbycon/2012dayone.xml"/>
+	</category>
+
+    <category title="2011 Day One" description="" sd_img="http://dl.dropbox.com/u/7067038/derbycon/derbycon.png" hd_img="http://dl.dropbox.com/u/7067038/derbycon/derbycon.png">
+		<categoryLeaf title="Track 1" description="" feed="http://dl.dropbox.com/u/7067038/derbycon/dayone.xml"/>
+	</category>
+	  
+	<category title="2011 Day Two" description="" sd_img="http://dl.dropbox.com/u/7067038/derbycon/derbycon.png" hd_img="http://dl.dropbox.com/u/7067038/derbycon/derbycon.png">
+		<categoryLeaf title="Track 1" description="" feed="http://dl.dropbox.com/u/7067038/derbycon/daytwo.xml"/>
+	</category>
+	
+    <category title="2011 Day Three" description="" sd_img="http://dl.dropbox.com/u/7067038/derbycon/derbycon.png" hd_img="http://dl.dropbox.com/u/7067038/derbycon/derbycon.png">
+		<categoryLeaf title="Track 1" description="" feed="http://dl.dropbox.com/u/7067038/derbycon/daythree.xml"/>
+	</category>
+
+ </categories>

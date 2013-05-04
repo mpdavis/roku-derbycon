@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+    <!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>4</resultLength>
+    <!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>4</endIndex>
+    <item sdImg="http://ia601509.us.archive.org/7/items/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F111OpeningCeremony_000169.jpg" hdImg="http://ia601509.us.archive.org/7/items/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F111OpeningCeremony_000169.jpg">
+        <title>Opening Ceremony</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+            <streamUrl>http://archive.org/download/Derbycon2012Day1/111OpeningCeremony.mp4</streamUrl>
+		</media>
+	</item>	
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F112HdMoore-TheWildWest_000407.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F112HdMoore-TheWildWest_000407.jpg">
+		<title>HD Moore - The Wild West</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/112HdMoore-TheWildWest.mp4</streamUrl>
+		</media>
+	</item>
+
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F113DanKaminsky-BlackOps_000555.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F113DanKaminsky-BlackOps_000555.jpg">
+		<title>Dan Kaminsky - Black Ops</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/113DanKaminsky-BlackOps.mp4</streamUrl>
+		</media>
+	</item>
+
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F114Mudge-CyberFastTrackFromTheTrenches_000433.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F114Mudge-CyberFastTrackFromTheTrenches_000433.jpg">
+		<title>Mudge - Cyber Fast Track; from the trenches</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/114Mudge-CyberFastTrackFromTheTrenches.mp4</streamUrl>
+		</media>
+	</item>
+
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F115JaysonE.Street-SecuringTheInternetYoureDoingItWronganInfosecIntervention_000388.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F115JaysonE.Street-SecuringTheInternetYoureDoingItWronganInfosecIntervention_000388.jpg">
+		<title>Jayson E. Street - Securing the Internet You're doing it wrong (An INFOSEC Intervention)</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/115JaysonE.Street-SecuringTheInternetYoureDoingItWronganInfosecIntervention.mp4</streamUrl>
+		</media>
+	</item>
+
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F116RobFullerChrisGates-DirtyLittleSecretsPart2_000363.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F116RobFullerChrisGates-DirtyLittleSecretsPart2_000363.jpg">
+		<title>Rob Fuller Chris Gates - Dirty Little Secrets Part 2</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/116RobFullerChrisGates-DirtyLittleSecretsPart2.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F117IanAmit-Sexydefense-TheRedTeamToreYouANewOne.NowWhat_000398.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F117IanAmit-Sexydefense-TheRedTeamToreYouANewOne.NowWhat_000398.jpg">
+		<title>Ian Amit - SexyDefense - the red team tore you a new one. Now what</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/117IanAmit-Sexydefense-TheRedTeamToreYouANewOne.NowWhat.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F118CarlosPerez-DnsReconnaissance_000305.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F118CarlosPerez-DnsReconnaissance_000305.jpg">
+		<title>Carlos Perez - DNS Reconnaissance</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/118CarlosPerez-DnsReconnaissance.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F211JasonScott-RescuingThePrinceOfPersiaFromTheSandsOfTime_000401.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F211JasonScott-RescuingThePrinceOfPersiaFromTheSandsOfTime_000401.jpg">
+		<title>Jason Scott - Rescuing The Prince of Persia from the sands of time</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/211JasonScott-RescuingThePrinceOfPersiaFromTheSandsOfTime.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F212ChrisHadnagy-NonverbalHumanHacking_000366.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F212ChrisHadnagy-NonverbalHumanHacking_000366.jpg">
+		<title>Chris Hadnagy - Nonverbal Human Hacking</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/212ChrisHadnagy-NonverbalHumanHacking.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F213Egyp7-PrivilegeEscalationWithTheMetasploitFramework_000383.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F213Egyp7-PrivilegeEscalationWithTheMetasploitFramework_000383.jpg">
+		<title>egyp7 - Privilege Escalation with the Metasploit Framework</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/213Egyp7-PrivilegeEscalationWithTheMetasploitFramework.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F214SamGaudetPentestingForNon-pentesters...ThroughVirtualMachines_000227.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F214SamGaudetPentestingForNon-pentesters...ThroughVirtualMachines_000227.jpg">
+		<title>Sam Gaudet Pentesting for non-pentesters... through virtual machines</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/214SamGaudetPentestingForNon-pentesters...ThroughVirtualMachines.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F311DaveMarcus-2fa-enabledFraudDissectingOperationHighRoller_000371.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F311DaveMarcus-2fa-enabledFraudDissectingOperationHighRoller_000371.jpg">
+		<title>Dave Marcus - 2FA-Enabled Fraud Dissecting Operation High Roller</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/311DaveMarcus-2fa-enabledFraudDissectingOperationHighRoller.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F312RickFarinaTheHackerEthosMeetsTheFossEthos_000309.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F312RickFarinaTheHackerEthosMeetsTheFossEthos_000309.jpg">
+		<title>Rick Farina The Hacker Ethos meets the FOSS ethos</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/312RickFarinaTheHackerEthosMeetsTheFossEthos.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F313LarryPesceDarrenWigley-HackingSurvivalSo.YouWantToComputePost-apocalypse_000383.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F313LarryPesceDarrenWigley-HackingSurvivalSo.YouWantToComputePost-apocalypse_000383.jpg">
+		<title>Larry Pesce Darren Wigley - Hacking Survival So. You want to compute post-apocalypse</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/313LarryPesceDarrenWigley-HackingSurvivalSo.YouWantToComputePost-apocalypse.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F314RyanLinn-CollectingUnderpantsToWinYourNetwork_000386.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F314RyanLinn-CollectingUnderpantsToWinYourNetwork_000386.jpg">
+		<title>Ryan Linn - Collecting Underpants To Win Your Network</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/314RyanLinn-CollectingUnderpantsToWinYourNetwork.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F411RafalLos-HouseOfCards_000417.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F411RafalLos-HouseOfCards_000417.jpg">
+		<title>Rafal Los - House of Cards</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/411RafalLos-HouseOfCards.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F412BrentHuston-InfoOverload..futureShock..IbmNatureOfModernCrime_000349.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F412BrentHuston-InfoOverload..futureShock..IbmNatureOfModernCrime_000349.jpg">
+		<title>Brent Huston - Info overload..Future shock.. IBM and nature of modern crime</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/412BrentHuston-InfoOverload..futureShock..IbmNatureOfModernCrime.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F413JamesArlen-Doubt-Deceit-deficiencyAndDecency-ADecadeOfDisillusionment_000412.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F413JamesArlen-Doubt-Deceit-deficiencyAndDecency-ADecadeOfDisillusionment_000412.jpg">
+		<title>James Arlen - Doubt - Deceit -Deficiency and Decency - a Decade of Disillusionment</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/413JamesArlen-Doubt-Deceit-deficiencyAndDecency-ADecadeOfDisillusionment.mp4</streamUrl>
+		</media>
+	</item>
+    
+    <item sdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F414JerryGamblinIsItTimeForAnotherFirewallOrASecurityAwarenessProgram_000219.jpg" hdImg="http://archive.org/download/Derbycon2012Day1/Derbycon2012Day1.thumbs%2F414JerryGamblinIsItTimeForAnotherFirewallOrASecurityAwarenessProgram_000219.jpg">
+		<title>Jerry Gamblin is it time for another firewall or a security awareness program</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://archive.org/download/Derbycon2012Day1/414JerryGamblinIsItTimeForAnotherFirewallOrASecurityAwarenessProgram.mp4</streamUrl>
+		</media>
+	</item>
+
+
+</feed>

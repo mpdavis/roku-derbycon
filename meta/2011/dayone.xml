@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+    <!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>4</resultLength>
+    <!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>4</endIndex>
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k1-adrian-dave-martin-welcome-to-derbycon-2011-intro-to-the-con-and-events_000463.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k1-adrian-dave-martin-welcome-to-derbycon-2011-intro-to-the-con-and-events_000463.jpg">
+<title>Adrian, Dave, Martin: Welcome to DerbyCon 2011 – Intro to the con and events</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+            <streamUrl>http://ia700709.us.archive.org/3/items/Derbycon2011AllFullSize/derbycon-d1k1-adrian-dave-martin-welcome-to-derbycon-2011-intro-to-the-con-and-events.mp4</streamUrl>
+		</media>
+	</item>	
+    
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k2-keynote-hd-moore-acoustic-intrusions_001165.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k2-keynote-hd-moore-acoustic-intrusions_001165.jpg">
+		<title>KEYNOTE ~ HD MOORE – Acoustic Intrusions</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1k2-keynote-hd-moore-acoustic-intrusions.mp4</streamUrl>
+		</media>
+	</item>
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k3-johnny-long-hackers-for-charity-update_001122.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k3-johnny-long-hackers-for-charity-update_001122.jpg">
+		<title>Johnny Long – Hackers for Charity Update</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1k3-johnny-long-hackers-for-charity-update.mp4</streamUrl>
+		</media>
+	</item>
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k4-kevin-mitnick-dave-kennedy-adaptive-penetration-testing_001356.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k4-kevin-mitnick-dave-kennedy-adaptive-penetration-testing_001356.jpg">
+		<title>Kevin Mitnick + Dave Kennedy – Adaptive Penetration Testing</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1k4-kevin-mitnick-dave-kennedy-adaptive-penetration-testing.mp4</streamUrl>
+		</media>
+	</item>
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k5-the-penetration-testing-execution-standard-ptes-panel_000980.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k5-the-penetration-testing-execution-standard-ptes-panel_000980.jpg">
+		<title>The Penetration Testing Execution Standard (PTES) Panel</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1k5-the-penetration-testing-execution-standard-ptes-panel.mp4</streamUrl>
+		</media>
+	</item>
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k6-bruce-potter-the-details-dont-matter_000827.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k6-bruce-potter-the-details-dont-matter_000827.jpg">
+		<title>Bruce Potter – The Details Don’t Matter</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1k6-bruce-potter-the-details-dont-matter.mp4</streamUrl>
+		</media>
+	</item>
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k7-chris-nickerson-compliance-an-assault-on-reason_001282.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1k7-chris-nickerson-compliance-an-assault-on-reason_001282.jpg">
+		<title>Chris Nickerson – Compliance: An Assault on Reason</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1k7-chris-nickerson-compliance-an-assault-on-reason.mp4</streamUrl>
+		</media>
+	</item>
+    
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1t1t1-pat-mccoy-and-chris-silvers-hook-line-and-syncer-the-liar-for-hires-ultimate-tacklebox_001237.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1t1t1-pat-mccoy-and-chris-silvers-hook-line-and-syncer-the-liar-for-hires-ultimate-tacklebox_001237.jpg">
+		<title>Pat McCoy, Chris Silvers – Hook, Line and Syncer: The Liar for Hire’s Ultimate Tacklebox</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1t1t1-pat-mccoy-and-chris-silvers-hook-line-and-syncer-the-liar-for-hires-ultimate-tacklebox.mp4</streamUrl>
+		</media>
+	</item>
+    
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1t1t2-jason-scott-jason-scotts-shareware-calvacade_001264.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1t1t2-jason-scott-jason-scotts-shareware-calvacade_001264.jpg">
+		<title>Jason Scott – Jason Scott’s Shareware Calvacade</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1t1t2-jason-scott-jason-scotts-shareware-calvacade.mp4</streamUrl>
+		</media>
+	</item>
+    
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1t2t1-atlas-sploit-me-if-you-can_001193.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d1t2t1-atlas-sploit-me-if-you-can_001193.jpg">
+		<title>atlas – sploit me if you can</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d1t2t1-atlas-sploit-me-if-you-can.mp4</streamUrl>
+		</media>
+	</item>
+
+
+</feed>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<feed>
+
+	<!-- resultLength indicates the total number of results for this feed -->
+		<resultLength>4</resultLength>
+
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+		<endIndex>4</endIndex>
+
+	
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t1-charlie-miller-battery-firmware-hacking_001226.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t1-charlie-miller-battery-firmware-hacking_001226.jpg">
+
+		<title>Charlie Miller – Battery Firmware Hacking</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t1t1-charlie-miller-battery-firmware-hacking.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+
+
+
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t2-peter-van-eeckhoutte-and-elliot-cutright-win32-exploit-development-with-mona-and-the-metasploit-framework_001324.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t2-peter-van-eeckhoutte-and-elliot-cutright-win32-exploit-development-with-mona-and-the-metasploit-framework_001324.jpg">
+
+		<title>Peter Van Eeckhoutte, Elliot Cutright – Win32 Exploit Development With Mona and the Metasploit Framework</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t1t2-peter-van-eeckhoutte-and-elliot-cutright-win32-exploit-development-with-mona-and-the-metasploit-framework.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t3-ryan-linn-collecting-underpants-to-win-your-network_000913.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t3-ryan-linn-collecting-underpants-to-win-your-network_000913.jpg">
+
+		<title>Ryan Linn – collecting Underpants To Win Your Network</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t1t3-ryan-linn-collecting-underpants-to-win-your-network.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t5-josh-kelley-winfang98-infectious-media-bypassing-autorun-once-and-for-all_000999.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t5-josh-kelley-winfang98-infectious-media-bypassing-autorun-once-and-for-all_000999.jpg">
+
+		<title>Josh Kelley (winfang98) – Infectious Media – Bypassing AutoRun once and for all</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t1t5-josh-kelley-winfang98-infectious-media-bypassing-autorun-once-and-for-all.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t6-kevin-johnson-and-tom-eston-desktop-betrayal-exploiting-clients-through-the-features-they-demand_001151.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t1t6-kevin-johnson-and-tom-eston-desktop-betrayal-exploiting-clients-through-the-features-they-demand_001151.jpg">
+
+		<title>Kevin Johnson, Tom Eston – Desktop Betrayal: Exploiting Clients through the Features They Demand</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t1t6-kevin-johnson-and-tom-eston-desktop-betrayal-exploiting-clients-through-the-features-they-demand.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+
+   
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t2t2-jayson-e-street-steal-everything-kill-everyone-cause-total-financial-ruin-or-how-i-walked-in-and-misbehaved_001143.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t2t2-jayson-e-street-steal-everything-kill-everyone-cause-total-financial-ruin-or-how-i-walked-in-and-misbehaved_001143.jpg">
+
+		<title>Jayson E. Street – Steal Everything, Kill Everyone, Cause Total Financial Ruin!  (Or How I Walked In And Misbehaved)</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t2t2-jayson-e-street-steal-everything-kill-everyone-cause-total-financial-ruin-or-how-i-walked-in-and-misbehaved.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t2t5-deviant-ollam-distinguishing-lockpicks-raking-vs-lifting-vs-jiggling-and-more_001126.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t2t5-deviant-ollam-distinguishing-lockpicks-raking-vs-lifting-vs-jiggling-and-more_001126.jpg">
+
+		<title>Deviant Ollam – Distinguishing Lockpicks: Raking vs Lifting vs Jiggling and More</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t2t5-deviant-ollam-distinguishing-lockpicks-raking-vs-lifting-vs-jiggling-and-more.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t2t6-raphael-mudge-dirty-red-team-tricks_001132.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t2t6-raphael-mudge-dirty-red-team-tricks_001132.jpg">
+
+		<title>Raphael Mudge – Dirty Red Team tricks</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t2t6-raphael-mudge-dirty-red-team-tricks.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+    
+	
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t1-chris-roberts-a-tribute-to-dr-strangelove_001255.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t1-chris-roberts-a-tribute-to-dr-strangelove_001255.jpg">
+
+		<title>Chris Roberts – A Tribute to Dr. Strangelove</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t3t1-chris-roberts-a-tribute-to-dr-strangelove.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t2-kyle-osborne-kos-the-hidden-xss-attacking-the-desktop_001119.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t2-kyle-osborne-kos-the-hidden-xss-attacking-the-desktop_001119.jpg">
+
+		<title>Kyle Osborne (kos) – The Hidden XSS – Attacking the Desktop</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t3t2-kyle-osborne-kos-the-hidden-xss-attacking-the-desktop.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t3-mick-douglas-blue-team-is-sexy-refocusing-on-defense-part-ii-all-you-baseline-are-belong-to-us_000882.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t3-mick-douglas-blue-team-is-sexy-refocusing-on-defense-part-ii-all-you-baseline-are-belong-to-us_000882.jpg">
+
+		<title>Mick Douglas – Blue team is sexy — refocusing on defense — Part II — All you baseline are belong to us</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t3t3-mick-douglas-blue-team-is-sexy-refocusing-on-defense-part-ii-all-you-baseline-are-belong-to-us.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t5-thomas-dotreppe-mister-x-openwips-ng_000908.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t5-thomas-dotreppe-mister-x-openwips-ng_000908.jpg">
+
+		<title>Thomas d’Otreppe (mister_x) – OpenWIPS-ng</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t3t5-thomas-dotreppe-mister-x-openwips-ng.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t6-joshua-drake-jduck-exploiting-java-memory-corruption-vulnerabilities_000982.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/derbycon-d3t3t6-joshua-drake-jduck-exploiting-java-memory-corruption-vulnerabilities_000982.jpg">
+
+		<title>Joshua Drake (jduck) – Exploiting Java Memory Corruption Vulnerabilities</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/derbycon-d3t3t6-joshua-drake-jduck-exploiting-java-memory-corruption-vulnerabilities.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+
+<item sdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/z-derbycon-closing_001236.jpg" hdImg="http://www.archive.org/download/Derbycon2011AllFullSize/Derbycon2011AllFullSize.thumbs/z-derbycon-closing_001236.jpg">
+
+		<title>Closing Ceremony</title>
+
+		<contentType>Talk</contentType>
+
+		<contentQuality>SD</contentQuality>
+
+		<media>
+
+			<streamFormat>mp4</streamFormat>
+
+			<streamQuality>SD</streamQuality>
+
+			<streamBitrate>1500</streamBitrate>
+
+			<streamUrl>http://www.archive.org/download/Derbycon2011AllFullSize/z-derbycon-closing.mp4</streamUrl>
+
+		</media>
+	
+</item> 
+    
+    
+
+</feed>
