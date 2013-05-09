@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+    <!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>4</resultLength>
+    <!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>4</endIndex>
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F131MatthewSullivanCookieCadger-TakingCookieHijackingToANewLevel_000377.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F131MatthewSullivanCookieCadger-TakingCookieHijackingToANewLevel_000377.jpg">
+		<title>Matthew Sullivan Cookie Cadger - taking cookie hijacking to a new level</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/131MatthewSullivanCookieCadger-TakingCookieHijackingToANewLevel.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F132StevenHaywood-IntroductionToMetasploitPostExploitationModules_000321.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F132StevenHaywood-IntroductionToMetasploitPostExploitationModules_000321.jpg">
+		<title>Steven Haywood - Introduction to Metasploit Post Exploitation Modules</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/132StevenHaywood-IntroductionToMetasploitPostExploitationModules.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F133NoahBeddomeTheDevilsInTheDetails-aLookAtBadSeAndHowToDoBetter_000282.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F133NoahBeddomeTheDevilsInTheDetails-aLookAtBadSeAndHowToDoBetter_000282.jpg">
+		<title>Noah Beddome The devils in the Details-A look at bad SE and how to do better</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/133NoahBeddomeTheDevilsInTheDetails-aLookAtBadSeAndHowToDoBetter.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F134JayJamesShaneMacdougallUsineMcafeeSecureTrustguardAsAttackTools_000317.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F134JayJamesShaneMacdougallUsineMcafeeSecureTrustguardAsAttackTools_000317.jpg">
+		<title> Jay James Shane MacDougall Usine McAfee secure trustguard as attack tools</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/134JayJamesShaneMacdougallUsineMcafeeSecureTrustguardAsAttackTools.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F135DeviantRoamer-AndroidPhoneRooting_000449.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F135DeviantRoamer-AndroidPhoneRooting_000449.jpg">
+		<title>Deviant Roamer - Android Phone Rooting</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/135DeviantRoamer-AndroidPhoneRooting.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F136LaszloTothFerencSpalaThinkDifferentlyAboutDatabaseHacking_000373.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F136LaszloTothFerencSpalaThinkDifferentlyAboutDatabaseHacking_000373.jpg">
+		<title>Laszlo Toth Ferenc Spala Think differently about database hacking</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/136LaszloTothFerencSpalaThinkDifferentlyAboutDatabaseHacking.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F137ClosingCeremoniesPart1_000413.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F137ClosingCeremoniesPart1_000413.jpg">
+		<title>Closing Ceremonies Part 1</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/137ClosingCeremoniesPart1.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F137ClosingCeremoniesPart2_000300.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F137ClosingCeremoniesPart2_000300.jpg">
+		<title>Closing Ceremonies Part 2</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/137ClosingCeremoniesPart2.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F231MattWeeksAmbush-CatchingIntrudersAtAnyPoint_000443.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F231MattWeeksAmbush-CatchingIntrudersAtAnyPoint_000443.jpg">
+		<title>Matt Weeks Ambush- Catching Intruders at Any Point</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/231MattWeeksAmbush-CatchingIntrudersAtAnyPoint.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F234MattPressonBuildingADatabaseSecurityProgram_000375.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F234MattPressonBuildingADatabaseSecurityProgram_000375.jpg">
+		<title>Matt Presson Building a database security program</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/234MattPressonBuildingADatabaseSecurityProgram.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F235PatrickTatroWhyIsntEveryonePullingSecurity-ThisIsCombat_000468.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F235PatrickTatroWhyIsntEveryonePullingSecurity-ThisIsCombat_000468.jpg">
+		<title>Patrick Tatro Why isn't everyone pulling security- this is combat</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/235PatrickTatroWhyIsntEveryonePullingSecurity-ThisIsCombat.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F236MickDouglas-SprinklerIr_000310.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F236MickDouglas-SprinklerIr_000310.jpg">
+		<title>Mick Douglas - Sprinkler IR</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/236MickDouglas-SprinklerIr.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F331JoshuaMarpetSeparatingSecurityIntelligenceFromSecurityFud_000395.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F331JoshuaMarpetSeparatingSecurityIntelligenceFromSecurityFud_000395.jpg">
+		<title>Joshua Marpet separating security intelligence from security FUD</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/331JoshuaMarpetSeparatingSecurityIntelligenceFromSecurityFud.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F332RaphaelMudge_000365.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F332RaphaelMudge_000365.jpg">
+		<title>Raphael Mudge</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/332RaphaelMudge.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F333NicolleNeulistWriteYourOwnToolsWithPython_000393.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F333NicolleNeulistWriteYourOwnToolsWithPython_000393.jpg">
+		<title>Nicolle Neulist Write your own tools with python</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/333NicolleNeulistWriteYourOwnToolsWithPython.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F334ChrisJenksIntroToLinuxSystemHardening_000291.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F334ChrisJenksIntroToLinuxSystemHardening_000291.jpg">
+		<title>Chris Jenks Intro to Linux system hardening</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/334ChrisJenksIntroToLinuxSystemHardening.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F335JasonFrisvoldTamingStuxnet-usingTheCloudToAutomateBaselineScanning_000162.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F335JasonFrisvoldTamingStuxnet-usingTheCloudToAutomateBaselineScanning_000162.jpg">
+		<title>Jason Frisvold Taming stuxnet-using the cloud to automate baseline scanning</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/335JasonFrisvoldTamingStuxnet-usingTheCloudToAutomateBaselineScanning.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F336MatthewPerryCurrentTrendsInComputerLaw_000355.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F336MatthewPerryCurrentTrendsInComputerLaw_000355.jpg">
+		<title>Matthew Perry Current trends in computer law</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/336MatthewPerryCurrentTrendsInComputerLaw.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F431SteveWerbyRandyToddBuildingDictionariesAndDestroyingHashesWAmazonEc2_000448.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F431SteveWerbyRandyToddBuildingDictionariesAndDestroyingHashesWAmazonEc2_000448.jpg">
+		<title>Steve Werby Randy Todd Building dictionaries and destroying hashes w amazon EC2</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/431SteveWerbyRandyToddBuildingDictionariesAndDestroyingHashesWAmazonEc2.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F432DavidSchuetzdarthNull-SlowDownCowpoke-WhenEnthusiasmOutpacesCommonSense_000388.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F432DavidSchuetzdarthNull-SlowDownCowpoke-WhenEnthusiasmOutpacesCommonSense_000388.jpg">
+		<title>David Schuetz (Darth Null) - Slow down cowpoke - When enthusiasm outpaces common sense</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/432DavidSchuetzdarthNull-SlowDownCowpoke-WhenEnthusiasmOutpacesCommonSense.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F433DavidMcguireMaturingThePenTestingProfessional_000548.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F433DavidMcguireMaturingThePenTestingProfessional_000548.jpg">
+		<title>David McGuire Maturing the Pen Testing Professional</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/433DavidMcguireMaturingThePenTestingProfessional.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F434EricMilamBecomingMallory_000432.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F434EricMilamBecomingMallory_000432.jpg">
+		<title>Eric Milam Becoming Mallory></title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/434EricMilamBecomingMallory.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F435JpDunningChrisSilversWieldingKatana-ALiveSecuritySuite_000457.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F435JpDunningChrisSilversWieldingKatana-ALiveSecuritySuite_000457.jpg">
+		<title>JP Dunning Chris Silvers Wielding Katana- A live security suite</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/435JpDunningChrisSilversWieldingKatana-ALiveSecuritySuite.mp4</streamurl>
+		</media>
+	</item>
+
+
+	<item sdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F436LeonardIshamSeMe-SeYou_000316.jpg "hdImg="http://archive.org/download/Derbycon2012Day3A/Derbycon2012Day3A.thumbs%2F436LeonardIshamSeMe-SeYou_000316.jpg">
+		<title> Leonard Isham SE me - SE you</title>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<steamUrl>http://archive.org/download/Derbycon2012Day3A/436LeonardIshamSeMe-SeYou.mp4</streamurl>
+		</media>
+	</item>
+
+
