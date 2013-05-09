@@ -4,7 +4,7 @@
 	<resultLength>4</resultLength>
     <!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>4</endIndex>
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FAndyCooper-WhyInteggrollSucksAtPython..andYouCanToo_000223.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FAndyCooper-WhyInteggrollSucksAtPython..andYouCanToo_000223.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FAndyCooper-WhyInteggrollSucksAtPython..andYouCanToo_000223.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FAndyCooper-WhyInteggrollSucksAtPython..andYouCanToo_000223.jpg">
 		<title>Andy Cooper - Why Integgroll sucks at Python..And you can too</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -12,12 +12,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/AndyCooper-WhyInteggrollSucksAtPython..andYouCanToo.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/AndyCooper-WhyInteggrollSucksAtPython..andYouCanToo.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FBenToewsScottBehrens-RapidBlindSqlInjectionExploitationWithBbqsql_000218.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FBenToewsScottBehrens-RapidBlindSqlInjectionExploitationWithBbqsql_000218.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FBenToewsScottBehrens-RapidBlindSqlInjectionExploitationWithBbqsql_000218.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FBenToewsScottBehrens-RapidBlindSqlInjectionExploitationWithBbqsql_000218.jpg">
 		<title>Ben Toews Scott Behrens - Rapid Blind SQL Injection Exploitation with BBQSQL</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -25,12 +25,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/BenToewsScottBehrens-RapidBlindSqlInjectionExploitationWithBbqsql.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/BenToewsScottBehrens-RapidBlindSqlInjectionExploitationWithBbqsql.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FBrettCunningham-BeyondStrings-MemoryAnalysisDuringIncidentResponse_000242.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FBrettCunningham-BeyondStrings-MemoryAnalysisDuringIncidentResponse_000242.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FBrettCunningham-BeyondStrings-MemoryAnalysisDuringIncidentResponse_000242.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FBrettCunningham-BeyondStrings-MemoryAnalysisDuringIncidentResponse_000242.jpg">
 		<title>Brett Cunningham - Beyond strings - memory analysis during incident response</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -38,12 +38,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/BrettCunningham-BeyondStrings-MemoryAnalysisDuringIncidentResponse.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/BrettCunningham-BeyondStrings-MemoryAnalysisDuringIncidentResponse.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FChrisMurreyf8lerrorJakeGarliejagar-EasyPasswords-EasyBreak-ins_000207.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FChrisMurreyf8lerrorJakeGarliejagar-EasyPasswords-EasyBreak-ins_000207.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FChrisMurreyf8lerrorJakeGarliejagar-EasyPasswords-EasyBreak-ins_000207.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FChrisMurreyf8lerrorJakeGarliejagar-EasyPasswords-EasyBreak-ins_000207.jpg">
 		<title>Chris Murrey (f8lerror) Jake Garlie (jagar) - Easy Passwords - Easy Break-Ins</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -51,12 +51,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/ChrisMurreyf8lerrorJakeGarliejagar-EasyPasswords-EasyBreak-ins.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/ChrisMurreyf8lerrorJakeGarliejagar-EasyPasswords-EasyBreak-ins.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDamianProfancik-ManagedServiceProviders-PwnOneAndDone_000251.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDamianProfancik-ManagedServiceProviders-PwnOneAndDone_000251.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDamianProfancik-ManagedServiceProviders-PwnOneAndDone_000251.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDamianProfancik-ManagedServiceProviders-PwnOneAndDone_000251.jpg">
 		<title>Damian Profancik - Managed Service Providers - Pwn One and Done</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -64,12 +64,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/DamianProfancik-ManagedServiceProviders-PwnOneAndDone.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/DamianProfancik-ManagedServiceProviders-PwnOneAndDone.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDavidCowen-RunningASuccessfulRedTeam_000238.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDavidCowen-RunningASuccessfulRedTeam_000238.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDavidCowen-RunningASuccessfulRedTeam_000238.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDavidCowen-RunningASuccessfulRedTeam_000238.jpg">
 		<title>David Cowen - Running a successful Red Team</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -77,12 +77,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/DavidCowen-RunningASuccessfulRedTeam.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/DavidCowen-RunningASuccessfulRedTeam.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDavidYoung-Iso8583OrPentestingWithAbnormalTargets_000248.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDavidYoung-Iso8583OrPentestingWithAbnormalTargets_000248.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDavidYoung-Iso8583OrPentestingWithAbnormalTargets_000248.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FDavidYoung-Iso8583OrPentestingWithAbnormalTargets_000248.jpg">
 		<title>David Young - ISO8583 or Pentesting with Abnormal Targets</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -90,12 +90,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/DavidYoung-Iso8583OrPentestingWithAbnormalTargets.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/DavidYoung-Iso8583OrPentestingWithAbnormalTargets.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FEvanAnderson-ActiveDirectoryReconnaissance-AttacksAndPostExploitation_000229.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FEvanAnderson-ActiveDirectoryReconnaissance-AttacksAndPostExploitation_000229.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FEvanAnderson-ActiveDirectoryReconnaissance-AttacksAndPostExploitation_000229.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FEvanAnderson-ActiveDirectoryReconnaissance-AttacksAndPostExploitation_000229.jpg">
 		<title>Evan Anderson - Active Directory Reconnaissance - attacks and post exploitation</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -103,12 +103,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/EvanAnderson-ActiveDirectoryReconnaissance-AttacksAndPostExploitation.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/EvanAnderson-ActiveDirectoryReconnaissance-AttacksAndPostExploitation.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FGusFritschieNaziaKhan-HackedHollywood_000230.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FGusFritschieNaziaKhan-HackedHollywood_000230.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FGusFritschieNaziaKhan-HackedHollywood_000230.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FGusFritschieNaziaKhan-HackedHollywood_000230.jpg">
 		<title>Gus Fritschie Nazia Khan - Hacked Hollywood</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -116,12 +116,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/GusFritschieNaziaKhan-HackedHollywood.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/GusFritschieNaziaKhan-HackedHollywood.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJamesSiegel-NiceToMeetYou_000200.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJamesSiegel-NiceToMeetYou_000200.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJamesSiegel-NiceToMeetYou_000200.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJamesSiegel-NiceToMeetYou_000200.jpg">
 		<title>James Siegel - Nice to Meet You</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -129,12 +129,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JamesSiegel-NiceToMeetYou.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JamesSiegel-NiceToMeetYou.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJasonPubal-SqlInjection101_000154.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJasonPubal-SqlInjection101_000154.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJasonPubal-SqlInjection101_000154.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJasonPubal-SqlInjection101_000154.jpg">
 		<title>Jason Pubal - SQL injection 101</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -142,12 +142,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JasonPubal-SqlInjection101.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JasonPubal-SqlInjection101.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJennifersavagejenSavageDanielunicornFurnance-ThePatsyProxy-GettingOthersToDoYourDirtyWork_000248.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJennifersavagejenSavageDanielunicornFurnance-ThePatsyProxy-GettingOthersToDoYourDirtyWork_000248.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJennifersavagejenSavageDanielunicornFurnance-ThePatsyProxy-GettingOthersToDoYourDirtyWork_000248.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJennifersavagejenSavageDanielunicornFurnance-ThePatsyProxy-GettingOthersToDoYourDirtyWork_000248.jpg">
 		<title>Jennifer "savagejen" Savage  Daniel "unicorn" Furnance - The Patsy Proxy - Getting others to do your dirty work</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -155,12 +155,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JennifersavagejenSavageDanielunicornFurnance-ThePatsyProxy-GettingOthersToDoYourDirtyWork.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JennifersavagejenSavageDanielunicornFurnance-ThePatsyProxy-GettingOthersToDoYourDirtyWork.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJohnSeely-CountersploitmsfAsADefensePlatform_000243.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJohnSeely-CountersploitmsfAsADefensePlatform_000243.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJohnSeely-CountersploitmsfAsADefensePlatform_000243.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJohnSeely-CountersploitmsfAsADefensePlatform_000243.jpg">
 		<title>John Seely - CounterSploit (MSF as a defense platform)</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -168,12 +168,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JohnSeely-CountersploitmsfAsADefensePlatform.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JohnSeely-CountersploitmsfAsADefensePlatform.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJoshThomas-OffGridCommunicationsWithAndroid_000218.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJoshThomas-OffGridCommunicationsWithAndroid_000218.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJoshThomas-OffGridCommunicationsWithAndroid_000218.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJoshThomas-OffGridCommunicationsWithAndroid_000218.jpg">
 		<title>Josh Thomas - Off Grid Communications with Android</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -181,25 +181,25 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JoshThomas-OffGridCommunicationsWithAndroid.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JoshThomas-OffGridCommunicationsWithAndroid.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJustinBrownFrankHackett-BreakingIntoSecurity_000174.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJustinBrownFrankHackett-BreakingIntoSecurity_000174.jpg">
-		<title>Justin Brown & Frank Hackett - Breaking into Security</title>
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJustinBrownFrankHackett-BreakingIntoSecurity_000174.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FJustinBrownFrankHackett-BreakingIntoSecurity_000174.jpg">
+		<title>Justin Brown and Frank Hackett - Breaking into Security</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
 		<media>
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JustinBrownFrankHackett-BreakingIntoSecurity.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/JustinBrownFrankHackett-BreakingIntoSecurity.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FMagenHughes-AreYouHipaaToTheJive_000259.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FMagenHughes-AreYouHipaaToTheJive_000259.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FMagenHughes-AreYouHipaaToTheJive_000259.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FMagenHughes-AreYouHipaaToTheJive_000259.jpg">
 		<title>Magen Hughes - Are you HIPAA to the Jive</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -207,12 +207,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/MagenHughes-AreYouHipaaToTheJive.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/MagenHughes-AreYouHipaaToTheJive.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FNathanMagniez-AliceInExploitRedirection-land_000256.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FNathanMagniez-AliceInExploitRedirection-land_000256.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FNathanMagniez-AliceInExploitRedirection-land_000256.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FNathanMagniez-AliceInExploitRedirection-land_000256.jpg">
 		<title>Nathan Magniez - Alice in Exploit Redirection-Land</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -220,12 +220,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/NathanMagniez-AliceInExploitRedirection-land.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/NathanMagniez-AliceInExploitRedirection-land.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FRockieBrockway-BusinessRamificationsOfInternetsUncleanConflicts_000226.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FRockieBrockway-BusinessRamificationsOfInternetsUncleanConflicts_000226.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FRockieBrockway-BusinessRamificationsOfInternetsUncleanConflicts_000226.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FRockieBrockway-BusinessRamificationsOfInternetsUncleanConflicts_000226.jpg">
 		<title>Rockie Brockway - Business Ramifications of Internet's unclean conflicts</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -233,12 +233,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/RockieBrockway-BusinessRamificationsOfInternetsUncleanConflicts.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/RockieBrockway-BusinessRamificationsOfInternetsUncleanConflicts.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FShawnMerdinger-MedicalDeviceSecurity_000263.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FShawnMerdinger-MedicalDeviceSecurity_000263.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FShawnMerdinger-MedicalDeviceSecurity_000263.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FShawnMerdinger-MedicalDeviceSecurity_000263.jpg">
 		<title>Shawn Merdinger - Medical Device Security</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -246,12 +246,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/ShawnMerdinger-MedicalDeviceSecurity.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/ShawnMerdinger-MedicalDeviceSecurity.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FSpencerMcintyre-HowILearnedToStopWorryingAndLoveTheSmartMeter_000311.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FSpencerMcintyre-HowILearnedToStopWorryingAndLoveTheSmartMeter_000311.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FSpencerMcintyre-HowILearnedToStopWorryingAndLoveTheSmartMeter_000311.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FSpencerMcintyre-HowILearnedToStopWorryingAndLoveTheSmartMeter_000311.jpg">
 		<title>Spencer McIntyre - How I learned to stop worrying and love the smart meter</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -259,12 +259,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/SpencerMcintyre-HowILearnedToStopWorryingAndLoveTheSmartMeter.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/SpencerMcintyre-HowILearnedToStopWorryingAndLoveTheSmartMeter.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FThomasHoffecker-HackYourWayIntoADodSecurityClearance_000201.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FThomasHoffecker-HackYourWayIntoADodSecurityClearance_000201.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FThomasHoffecker-HackYourWayIntoADodSecurityClearance_000201.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FThomasHoffecker-HackYourWayIntoADodSecurityClearance_000201.jpg">
 		<title>Thomas Hoffecker - Hack Your Way into a DoD Security Clearance</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -272,12 +272,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/ThomasHoffecker-HackYourWayIntoADodSecurityClearance.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/ThomasHoffecker-HackYourWayIntoADodSecurityClearance.mp4</streamUrl>
 		</media>
 	</item>
 
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FThomasRichards-AndroidInTheHealthcareWorkplace_000156.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FThomasRichards-AndroidInTheHealthcareWorkplace_000156.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FThomasRichards-AndroidInTheHealthcareWorkplace_000156.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FThomasRichards-AndroidInTheHealthcareWorkplace_000156.jpg">
 		<title>Thomas Richards - Android in the Healthcare Workplace</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -285,12 +285,12 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/ThomasRichards-AndroidInTheHealthcareWorkplace.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/ThomasRichards-AndroidInTheHealthcareWorkplace.mp4</streamUrl>
 		</media>
 	</item>
 
 	
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FTylerWrightson-TheArtAndScienceOfHackingAnyTarget_000240.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FTylerWrightson-TheArtAndScienceOfHackingAnyTarget_000240.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FTylerWrightson-TheArtAndScienceOfHackingAnyTarget_000240.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FTylerWrightson-TheArtAndScienceOfHackingAnyTarget_000240.jpg">
 		<title>Tim Tomes (LanMaSteR53) - Next Generation Web Reconnaissance</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -298,11 +298,11 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/TimTomeslanmaster53-NextGenerationWebReconnaissance.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/TimTomeslanmaster53-NextGenerationWebReconnaissance.mp4</streamUrl>
 		</media>
 	</item>
 
-	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FTylerWrightson-TheArtAndScienceOfHackingAnyTarget_000240.jpg "hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FTylerWrightson-TheArtAndScienceOfHackingAnyTarget_000240.jpg">
+	<item sdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FTylerWrightson-TheArtAndScienceOfHackingAnyTarget_000240.jpg" hdImg="http://archive.org/download/Derbycon2.02012StableTalks/Derbycon2.02012StableTalks.thumbs%2FTylerWrightson-TheArtAndScienceOfHackingAnyTarget_000240.jpg">
 		<title>Tyler Wrightson - The Art and Science of Hacking Any Target</title>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -310,8 +310,8 @@
 			<streamFormat>mp4</streamFormat>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<steamUrl>http://archive.org/download/Derbycon2.02012StableTalks/TylerWrightson-TheArtAndScienceOfHackingAnyTarget.mp4</streamurl>
+			<streamUrl>http://archive.org/download/Derbycon2.02012StableTalks/TylerWrightson-TheArtAndScienceOfHackingAnyTarget.mp4</streamUrl>
 		</media>
 	</item>
 
-
+</feed>
